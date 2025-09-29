@@ -1,0 +1,4 @@
+1. bun and node are just js runtime env 
+npm init to start youe project 
+npm install express
+npm i -D nodemon ->scripts mei jaake add bhi krna hoga, this would be only for dev dependency
